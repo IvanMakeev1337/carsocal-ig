@@ -1,14 +1,13 @@
 {
   "offset": 916187800,
   "lastMessageId": 6,
-  "lastMediaId": "18123736183635850",
+  "lastMediaId": "18121095280707701",
   "music": {
     "queue": [
-      "ScreenRecording_06-06-2026 15-28-44_1.mp3",
       "ScreenRecording_06-06-2026 15-29-33_1.mp3",
       "ScreenRecording_06-06-2026 15-31-29_1.mp3",
       "ScreenRecording_06-06-2026 15-25-37_1.mp3"
     ],
-    "last": "ScreenRecording_06-06-2026 15-23-56_1.mp3"
+    "last": "ScreenRecording_06-06-2026 15-28-44_1.mp3"
   }
 }
